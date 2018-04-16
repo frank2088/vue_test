@@ -2,6 +2,7 @@
 这是一个vue自带demo的打包练习项目，旨在熟悉打包流程。
 
 流程
+<br>
 1、新建项目vue_test
 <br>
 2、settings中设置GitHub Pages Source 的master branch
