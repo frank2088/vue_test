@@ -12,6 +12,7 @@
 <br>
 5、打开首页 https://frank2088.github.io/vue_test/index.html
 <br>
+<br>
 注意：
 <br>
 打包前可以打开config文件夹下的index.js
